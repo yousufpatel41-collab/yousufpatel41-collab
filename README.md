@@ -6,6 +6,8 @@ I'm studying Business Intelligence & Data Science at ISM Munich (expected Januar
 
 ## Projects
 
+- [Cloud cost and budget dashboard](https://github.com/yousufpatel41-collab/yousuf-patel/tree/main/cloud-cost-dashboard): analysis of 135,272 Microsoft sample billing records using Python and SQL, with an interactive dashboard, editable Excel budgets and a Power BI project (Desktop refresh pending).
+
 - [Telecom churn](https://github.com/yousufpatel41-collab/telecom-churn): customer churn modelling and a FastAPI prediction service using the IBM sample dataset.
 - [Employee attrition](https://github.com/yousufpatel41-collab/employee-attrition): classification experiments using the IBM HR sample dataset.
 - [Remote work analysis](https://github.com/yousufpatel41-collab/remote-work-analysis): a synthetic workforce simulation covering Germany, Poland, Hungary and India.
