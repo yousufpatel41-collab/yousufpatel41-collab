@@ -6,10 +6,10 @@ I'm studying Business Intelligence & Data Science at ISM Munich (expected Januar
 
 ## Featured portfolio
 
-**[Open the live analytics portfolio](https://yousuf-patel-analytics.boldsloth2.chatgpt.site)**
+**[Open the live analytics portfolio](https://yousufpatel41-collab.github.io)**
 
-- [German electricity cost dashboard](https://yousuf-patel-analytics.boldsloth2.chatgpt.site/electricity/): analysis of 24,335 published SMARD hourly prices, with price patterns, editable tariff scenarios and 12 automated model checks. [Code and method](https://github.com/yousufpatel41-collab/yousuf-patel/tree/main/german-electricity-dashboard).
-- [Cloud cost and budget dashboard](https://yousuf-patel-analytics.boldsloth2.chatgpt.site/cloud/): analysis of 135,272 Microsoft sample billing records, with cost allocation, editable budgets and reconciliation checks. [Code and method](https://github.com/yousufpatel41-collab/yousuf-patel/tree/main/cloud-cost-dashboard).
+- [German electricity cost dashboard](https://yousufpatel41-collab.github.io/electricity/): analysis of 24,335 published SMARD hourly prices, with price patterns, editable tariff scenarios and 12 automated model checks. [Code and method](https://github.com/yousufpatel41-collab/yousuf-patel/tree/main/german-electricity-dashboard).
+- [Cloud cost and budget dashboard](https://yousufpatel41-collab.github.io/cloud/): analysis of 135,272 Microsoft sample billing records, with cost allocation, editable budgets and reconciliation checks. [Code and method](https://github.com/yousufpatel41-collab/yousuf-patel/tree/main/cloud-cost-dashboard).
 
 ## Modelling and analysis
 
