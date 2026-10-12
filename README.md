@@ -6,6 +6,8 @@ I'm studying Business Intelligence & Data Science at ISM Munich (expected Januar
 
 ## Projects
 
+- [German electricity cost dashboard](https://github.com/yousufpatel41-collab/yousuf-patel/tree/main/german-electricity-dashboard): 24,335 published hourly electricity prices, with Python/SQL analysis, an interactive dashboard, Excel tariff scenarios and a Power BI project (Desktop refresh pending).
+
 - [Cloud cost and budget dashboard](https://github.com/yousufpatel41-collab/yousuf-patel/tree/main/cloud-cost-dashboard): analysis of 135,272 Microsoft sample billing records using Python and SQL, with an interactive dashboard, editable Excel budgets and a Power BI project (Desktop refresh pending).
 
 - [Telecom churn](https://github.com/yousufpatel41-collab/telecom-churn): customer churn modelling and a FastAPI prediction service using the IBM sample dataset.
